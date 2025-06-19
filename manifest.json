@@ -1,9 +1,9 @@
 {
     "format_version": 2,
     "header": {
-        "name": "[1.21.80]Rank Addon",
+        "name": "[1.21.90]Rank Addon",
         "description": "BetaAPIsを有効にする必要があります",
-        "uuid": "bd33a7ad-3ce9-1e21-9975-fec5c58822da",
+        "uuid": "bd33a7ad-3ce0-1e01-9975-fec5c58822da",
         "version": [
             0,
             1,
@@ -19,7 +19,7 @@
         {
             "description": "GameTest module",
             "type": "script",
-            "uuid": "1e1a75b3-ac8c-4da5-955a-e6bd9bfa1123",
+            "uuid": "1e1a75b3-ac8c-1da0-955a-e6bd9bfa1123",
             "version": [
                 0,
                 1,
@@ -31,7 +31,7 @@
     "dependencies": [
         {
             "module_name": "@minecraft/server",
-            "version": "2.0.0-beta"
+            "version": "2.1.0-beta"
         }
     ]
 }
